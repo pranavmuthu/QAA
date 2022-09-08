@@ -1,0 +1,2 @@
+Total: 69582314
+Number of Mapped Reads: 69582314, Number of Unmapped Reads 0
